@@ -8,6 +8,4 @@
 - [PowerShell ISE](https://docs.microsoft.com/en-us/powershell/scripting/components/ise/introducing-the-windows-powershell-ise?view=powershell-6)
 ## Screenshots
 ##### Main GUI
-![Login Screen](https://github.com/justin-blankenship/Tippet/blob/master/angular-src/src/assets/shot1.PNG?raw=true)
-##### Home Screen (Tutorial Section)
-![Home Screen](https://github.com/justin-blankenship/Tippet/blob/master/angular-src/src/assets/shot2.PNG?raw=true)
+![guiShot](https://user-images.githubusercontent.com/18442314/61732438-9c6c3380-ad4b-11e9-8191-fc7f6d4244f8.PNG)
